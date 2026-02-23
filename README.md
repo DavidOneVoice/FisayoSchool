@@ -1,3 +1,3 @@
 # FisayoSchool
 
-This project was built with Vue.js on the frontend
+This project was built with Vue.js on the frontend.
