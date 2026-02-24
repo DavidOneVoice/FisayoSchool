@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#submitbtn {
+  background-color: #017605;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  border: 1px solid #017605;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 3rem;
+  transition: all 0.3s ease;
+}
+
+#submitbtn:hover {
+  background-color: white;
+  color: #017605;
+}
